@@ -1,6 +1,6 @@
 ## E2E ML Project
 
-sitory Name: ml-projects
+
 Description:
 This repository is a comprehensive guide to building end-to-end machine learning projects for web deployment, designed to help you learn industry-relevant skills and crack data science interviews. It includes step-by-step instructions for setting up the project, organizing code, and implementing best practices like logging, exception handling, and modular coding.
 
